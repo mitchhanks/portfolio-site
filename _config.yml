@@ -20,10 +20,10 @@
 
 title: Your awesome title
 email: your-email@example.com
-description: Full stack developer with exprience in Docker, Java,
-JS,HTML, PHP, Angular, AI,Databases
+description: "Full stack developer with exprience in Docker, Java, JS, HTML, PHP, Angular, AI and Databases"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
 github_username:  mitchhanks
 
 # Build settings
