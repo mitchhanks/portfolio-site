@@ -647,3 +647,91 @@ table td {
 }
 
 /*# sourceMappingURL=main.css.map */
+.page-content {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.experience {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.company-name {
+    font-weight: bold;
+    color: #555;
+}
+
+.company-link {
+    display: block;
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.company-link:hover {
+    text-decoration: underline;
+}
+
+h3 {
+    font-size: 20px;
+    margin-top: 20px;
+    color: #333;
+}
+
+.project-list {
+    list-style: none;
+    padding: 0;
+}
+
+.project-item {
+    margin-bottom: 15px;
+}
+
+.project-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.project-duration {
+    font-weight: bold;
+    color: #777;
+}
+
+.project-link {
+    font-size: 16px;
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.project-link:hover {
+    text-decoration: underline;
+}
+
+.project-description {
+    margin-top: 5px;
+    font-size: 14px;
+    color: #555;
+}
+
+.site-footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
